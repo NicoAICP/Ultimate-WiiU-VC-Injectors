@@ -1,0 +1,9 @@
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\bin\Debug\NDS VC Injector Rewrite.exe.config
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\bin\Debug\NDS VC Injector Rewrite.exe
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\bin\Debug\NDS VC Injector Rewrite.pdb
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS VC Injector Rewrite.csprojResolveAssemblyReference.cache
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS_VC_Injector_Rewrite.Form1.resources
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS_VC_Injector_Rewrite.Properties.Resources.resources
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS VC Injector Rewrite.csproj.GenerateResource.Cache
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS VC Injector Rewrite.exe
+c:\users\jfiop\documents\visual studio 2015\Projects\NDS VC Injector Rewrite\NDS VC Injector Rewrite\obj\Debug\NDS VC Injector Rewrite.pdb
