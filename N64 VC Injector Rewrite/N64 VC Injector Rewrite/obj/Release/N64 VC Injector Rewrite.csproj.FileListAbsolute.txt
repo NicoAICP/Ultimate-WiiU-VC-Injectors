@@ -1,0 +1,18 @@
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\N64 VC Injector Rewrite.exe.config
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\N64 VC Injector Rewrite.exe.manifest
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\N64 VC Injector Rewrite.application
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\N64 VC Injector Rewrite.exe
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\N64 VC Injector Rewrite.pdb
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\MaterialSkin.dll
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\MetroFramework.dll
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\MetroFramework.Fonts.dll
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64_VC_Injector_Rewrite.Form1.resources
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64_VC_Injector_Rewrite.Properties.Resources.resources
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.csproj.GenerateResource.Cache
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.csproj.CoreCompileInputs.cache
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.exe.manifest
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.application
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.exe
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.pdb
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\obj\Release\N64 VC Injector Rewrite.csprojResolveAssemblyReference.cache
+D:\Injectors\N64 VC Injector Rewrite\N64 VC Injector Rewrite\bin\Release\MetroFramework.Design.dll

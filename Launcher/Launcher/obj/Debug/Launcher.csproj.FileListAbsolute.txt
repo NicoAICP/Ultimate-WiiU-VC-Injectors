@@ -1,0 +1,12 @@
+D:\Injectors\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Injectors\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\Injectors\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Injectors\Launcher\Launcher\bin\Debug\MetroFramework.dll
+D:\Injectors\Launcher\Launcher\bin\Debug\MetroFramework.Fonts.dll
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\Injectors\Launcher\Launcher\obj\Debug\Launcher.pdb
