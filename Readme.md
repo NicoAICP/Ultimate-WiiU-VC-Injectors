@@ -12,7 +12,7 @@ Tools used for the injectors (packaging and so on):
 - romutil (NES/SNES)
 - wiiurpxtool (NES/SNES)
 - inject_gba (python, GBA)
-
+- Bunifu UI (N64 and NDS standalone, need for editing the UI of the source, else it will show lots of errors. https://bunifuframework.com/)
 
 
 Injectors added to this that i do not own:
