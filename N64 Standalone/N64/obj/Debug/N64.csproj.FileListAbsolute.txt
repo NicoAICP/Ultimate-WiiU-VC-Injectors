@@ -1,0 +1,13 @@
+F:\Injectors\N64\N64\bin\Debug\N64.exe.config
+F:\Injectors\N64\N64\bin\Debug\N64.exe
+F:\Injectors\N64\N64\bin\Debug\N64.pdb
+F:\Injectors\N64\N64\obj\Debug\N64.csprojAssemblyReference.cache
+F:\Injectors\N64\N64\obj\Debug\N64.main.resources
+F:\Injectors\N64\N64\obj\Debug\N64.Properties.Resources.resources
+F:\Injectors\N64\N64\obj\Debug\N64.updater.resources
+F:\Injectors\N64\N64\obj\Debug\N64.csproj.GenerateResource.cache
+F:\Injectors\N64\N64\obj\Debug\N64.csproj.CoreCompileInputs.cache
+F:\Injectors\N64\N64\obj\Debug\N64.exe
+F:\Injectors\N64\N64\obj\Debug\N64.pdb
+F:\Injectors\N64\N64\obj\Debug\N64.csproj.Fody.CopyLocal.cache
+F:\Injectors\N64\N64\obj\Debug\N64.cust_ckey.resources
